@@ -9,6 +9,7 @@ namespace Task_1
         private Figure[] _figures;
         public void Start()
         {
+            Console.Clear();
             bool flag = false;
             while (!flag)
             {

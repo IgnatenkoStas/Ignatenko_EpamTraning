@@ -7,6 +7,7 @@ namespace Task_1
     {
         public static void Start()
         {
+            Console.Clear();
             bool flag = false;
             while (!flag)
             {
