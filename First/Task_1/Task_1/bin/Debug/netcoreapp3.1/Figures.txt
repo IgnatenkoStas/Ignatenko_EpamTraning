@@ -1,0 +1,11 @@
+Square|1|1|1|1
+Square|2|2|2|2
+Rectan|3|3|2|2
+Rectan|1|1|3|3
+Triang|3|3|3
+Triang|4|4|4
+Triang|5|4|3
+Triang|4|5|3
+Triang|3|5|4
+Square|3|3|3|3
+Square|3|3|3|3

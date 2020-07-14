@@ -1,0 +1,11 @@
+D:\EpamTraning\External\First\Task_1\Task_1\bin\Debug\netcoreapp3.1\Task_1.exe
+D:\EpamTraning\External\First\Task_1\Task_1\bin\Debug\netcoreapp3.1\Task_1.deps.json
+D:\EpamTraning\External\First\Task_1\Task_1\bin\Debug\netcoreapp3.1\Task_1.runtimeconfig.json
+D:\EpamTraning\External\First\Task_1\Task_1\bin\Debug\netcoreapp3.1\Task_1.runtimeconfig.dev.json
+D:\EpamTraning\External\First\Task_1\Task_1\bin\Debug\netcoreapp3.1\Task_1.dll
+D:\EpamTraning\External\First\Task_1\Task_1\bin\Debug\netcoreapp3.1\Task_1.pdb
+D:\EpamTraning\External\First\Task_1\Task_1\obj\Debug\netcoreapp3.1\Task_1.AssemblyInfoInputs.cache
+D:\EpamTraning\External\First\Task_1\Task_1\obj\Debug\netcoreapp3.1\Task_1.AssemblyInfo.cs
+D:\EpamTraning\External\First\Task_1\Task_1\obj\Debug\netcoreapp3.1\Task_1.dll
+D:\EpamTraning\External\First\Task_1\Task_1\obj\Debug\netcoreapp3.1\Task_1.pdb
+D:\EpamTraning\External\First\Task_1\Task_1\obj\Debug\netcoreapp3.1\Task_1.csprojAssemblyReference.cache
